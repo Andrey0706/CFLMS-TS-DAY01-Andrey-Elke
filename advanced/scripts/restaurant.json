@@ -112,8 +112,8 @@ arrayLunch = `[
     "description": "The best lunch!",
     "img": "img/figsalad.webp",
     "price": 7.50
-    {
     },
+    {
     "title": "Hamburger",
     "description": "The best lunch!",
     "img": "img/hamburger.webp",
